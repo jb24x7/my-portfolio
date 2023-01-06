@@ -3,6 +3,8 @@
   padding: 10px;
   float: right;
   margin-right: 25%;
+  border: 4px solid;
+  box-sizing: border-box;
 }
 
 body {
@@ -22,4 +24,22 @@ body {
   float: left;
   padding: 10px;
   margin-right: 20px;
+  width: 40%;
+}
+
+.about-me {
+  border: 4px solid;
+  float: right;
+  margin-top: 10px;
+  margin-right: 25%;
+  width: 20%;
+  box-sizing: border-box;
+}
+
+#name {
+  border: 4px solid;
+  width: 18%;
+  margin: auto;
+  margin-bottom: 10px;
+  padding-left: 40px;
 }
