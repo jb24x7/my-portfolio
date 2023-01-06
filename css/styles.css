@@ -37,6 +37,7 @@ body {
   width: 20%;
   box-sizing: border-box;
   background-color: rgb(173, 199, 219);
+  padding: 10px;
 }
 
 #name {
