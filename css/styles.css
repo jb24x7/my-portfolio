@@ -20,6 +20,6 @@ body {
 .section {
   border: 4px solid;
   float: left;
-  padding: auto;
+  padding: 10px;
   margin-right: 20px;
 }
