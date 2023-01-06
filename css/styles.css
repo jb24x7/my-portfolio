@@ -1,17 +1,18 @@
-.my-pic {
+#my-pic {
   width: 20%;
   padding: 10px;
   float: right;
   margin-right: 25%;
   border: 4px solid;
   box-sizing: border-box;
+  background-color: rgb(173, 199, 219);
 }
 
 body {
   background-color: lightgray;
 }
 
-.title {
+#title {
   color: red;
 }
 
@@ -25,6 +26,7 @@ body {
   padding: 10px;
   margin-right: 20px;
   width: 40%;
+  background-color: rgb(173, 199, 219);
 }
 
 .about-me {
@@ -34,6 +36,7 @@ body {
   margin-right: 25%;
   width: 20%;
   box-sizing: border-box;
+  background-color: rgb(173, 199, 219);
 }
 
 #name {
@@ -42,4 +45,5 @@ body {
   margin: auto;
   margin-bottom: 10px;
   padding-left: 40px;
+  background-color: rgb(173, 199, 219);
 }
